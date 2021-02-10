@@ -1,10 +1,10 @@
 {
-    "name": "jenssegers/proxy",
+    "name": "flexsim/php-proxy",
     "description": "Proxy library that forwards requests to the desired url and returns the response.",
     "keywords": [
         "proxy"
     ],
-    "homepage": "https://github.com/jenssegers/php-proxy",
+    "homepage": "https://github.com/flexsim/php-proxy",
     "license": "MIT",
     "authors": [
         {
